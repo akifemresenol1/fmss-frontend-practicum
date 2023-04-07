@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   background-image: url(https://dijital.ninja/wp-content/uploads/2021/01/pink-green-gradient-1920x1080_c.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%; 
+  color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
